@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#OPEN SOURCE BY : ETHAN EDWARD KLEIN
 import sys,os,shutil,subprocess
 HE=sys.argv
 
